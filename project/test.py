@@ -39,3 +39,5 @@ from plc import plc_snap7
 
 plc = plc_snap7()
 plc.connect("192.168.37.10")
+
+print(12345678910111)
