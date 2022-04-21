@@ -35,7 +35,3 @@ class test(object):
 
 
 
-from plc import plc_snap7
-
-
-
