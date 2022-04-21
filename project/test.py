@@ -33,5 +33,3 @@ class test(object):
 #     aa.run()
 #     pipe_main.send("2")
 
-
-
